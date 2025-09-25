@@ -10,7 +10,7 @@
 <ul>
 <li><a href="https://drive.google.com/file/d/1196bXhhAAYZzmnTOX4sJjAVDwUg9Hhw4/view?usp=sharing">The Legend of Zelda (Unity Remaster, Mac)</a></li>
 <li><a href="https://drive.google.com/file/d/17LeMuk8SNH1ho_7ekItKIo1JP22yduOY/view?usp=sharing">The Legend of Zelda (Unity Remaster, Windows)</a></li>
-<p>test</p>
+<p>Designed and implemented the custom mechanic (Raycast Shotgun) and its associated level in full, as well as the sloped tile in the custom level. Implemented all enemies, as well as grid-based movement for both player and enemies. Used Unity and C#.</p>
 </ul>
 
 
